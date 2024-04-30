@@ -54,3 +54,7 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.box {
+  border: 1px solid white;
+  border-radius: 1em;
+}
